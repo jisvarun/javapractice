@@ -1,11 +1,11 @@
-package org.example;
+package org.example.itsinterface;
 
-public class Pig implements Animal{
+class Pig implements Animal {
     public void animalSound() {
         System.out.println("The pig says: wee wee");
     }
 
-    public void sleep(){
+    public void sleep() {
         System.out.println("Zzz");
     }
 }

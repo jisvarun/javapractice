@@ -1,4 +1,4 @@
-package org.example;
+package org.example.inheritance;
 
 class Car extends Vehicle {
     private String modelName = "Mustang";

@@ -1,4 +1,4 @@
-package org.example;
+package org.example.itsinterface;
 
 public interface Animal {
     public void animalSound();

@@ -1,4 +1,4 @@
-package org.example;
+package org.example.inheritance;
 
 public class Vehicle {
     protected String brand = "Ford";
