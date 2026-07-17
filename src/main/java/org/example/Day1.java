@@ -31,5 +31,13 @@ public class Day1 {
         Second myCar = new Second();
         myCar.fullThrottle();
         myCar.speed(20);
+        // type casting
+//        int price = 100;
+//        float newPrice = price;
+//        System.out.println(newPrice);
+
+        float height = 6.5f;
+        int newHeight = (int) height;
+        System.out.println(newHeight);
     }
 }
